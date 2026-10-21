@@ -4,7 +4,7 @@ An AI-powered expense analysis tool that helps users track spending, understand 
 
 ## Features
 
-Stores user profiles, expense records, budgets, and forecasting data in PostgreSQL via Supabase.
+It stores user profiles, expense records, budgets, and forecasting data in PostgreSQL via Supabase.
 Supports secure cloud-based data management and retrieval using Supabase.
 Categorizes expenses into Food, Travel, Health, Entertainment, Utilities, Education, Rent, Subscriptions, and Investments using machine learning classification.
 Forecasts future spending for the next 15 days, 30 mdays, and 1 month months using XGBoost and Prophet.
